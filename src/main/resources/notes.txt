@@ -1,0 +1,5 @@
+Common Application properties
+https://docs.spring.io/spring-boot/docs/1.1.6.RELEASE/reference/html/common-application-properties.html
+
+Youtube Link for logging
+https://www.youtube.com/watch?v=5a65m_8n3q8
